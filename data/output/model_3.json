@@ -1,0 +1,120 @@
+{
+    "1": {
+        "seq": [
+            "Task_0",
+            "Task_23",
+            "Task_3",
+            "Task_9",
+            "Task_52",
+            "Task_14"
+        ],
+        "cost": 62.0,
+        "bottleneck": "Task_9"
+    },
+    "2": {
+        "seq": [
+            "Task_0",
+            "Task_43",
+            "Task_28",
+            "Task_38",
+            "Task_39",
+            "Task_49"
+        ],
+        "cost": 72.0,
+        "bottleneck": "Task_49"
+    },
+    "3": {
+        "seq": [
+            "Task_0",
+            "Task_32",
+            "Task_24",
+            "Task_40",
+            "Task_17",
+            "Task_11",
+            "Task_4",
+            "Task_42"
+        ],
+        "cost": 70.0,
+        "bottleneck": "Task_32"
+    },
+    "4": {
+        "seq": [
+            "Task_0",
+            "Task_26",
+            "Task_50",
+            "Task_25",
+            "Task_41",
+            "Task_33",
+            "Task_8",
+            "Task_19"
+        ],
+        "cost": 74.0,
+        "bottleneck": "Task_26"
+    },
+    "5": {
+        "seq": [
+            "Task_0",
+            "Task_5",
+            "Task_35",
+            "Task_1",
+            "Task_36",
+            "Task_2"
+        ],
+        "cost": 64.0,
+        "bottleneck": "Task_5"
+    },
+    "6": {
+        "seq": [
+            "Task_0",
+            "Task_6",
+            "Task_20",
+            "Task_7",
+            "Task_22",
+            "Task_13",
+            "Task_15"
+        ],
+        "cost": 76.0,
+        "bottleneck": "Task_6"
+    },
+    "7": {
+        "seq": [
+            "Task_0",
+            "Task_46",
+            "Task_44",
+            "Task_16",
+            "Task_54",
+            "Task_18",
+            "Task_12"
+        ],
+        "cost": 66.0,
+        "bottleneck": "Task_54"
+    },
+    "8": {
+        "seq": [
+            "Task_0",
+            "Task_45",
+            "Task_48",
+            "Task_47",
+            "Task_55",
+            "Task_29",
+            "Task_10",
+            "Task_37"
+        ],
+        "cost": 74.0,
+        "bottleneck": "Task_29"
+    },
+    "9": {
+        "seq": [
+            "Task_0",
+            "Task_21",
+            "Task_27",
+            "Task_30",
+            "Task_34",
+            "Task_31",
+            "Task_53",
+            "Task_51"
+        ],
+        "cost": 72.0,
+        "bottleneck": "Task_21"
+    }
+}
